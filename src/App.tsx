@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-        <h1>trip_whiz</h1>
+        <h1>trip_kit</h1>
     </>
   )
 }
