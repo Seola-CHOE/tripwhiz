@@ -1,7 +1,7 @@
 
 function ProductAdd() {
     return (
-        <div>ProductAdd Page</div>
+        <div>ProductAdd Page1</div>
     );
 }
 
