@@ -11,6 +11,8 @@ function App() {
         <h1>trip_whiz</h1>12345
 
         <img src="img/s18.jpeg" alt="minju"/>
+        <h2>kit</h2>
+        <h3>cha min ju</h3>
 
     </>
   )
